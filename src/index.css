@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://thumbs.dreamstime.com/b/sticky-todo-11106198.jpg");
+}
+h1 {
+  text-align: center;
+}
+#form {
+  text-align: center;
+  background: white;
+}
+#table {
+  margin: auto;
+  background: white;
+}
+td {
+  border: 1px solid gray;
+  min-width: 100px;
+  padding: 10px;
+}
+#head{
+    display: flex;
+    gap: 25%;
+}
